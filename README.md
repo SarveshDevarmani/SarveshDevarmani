@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **sarveshdevarmani36@gmail.com** 😊😊
 - 💬 **Ask me about:** Tech Support
 - 📫 **How to reach me:** sarveshdevarmani36@gmail.com
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me!
 
 
 # 💫 About Me:
