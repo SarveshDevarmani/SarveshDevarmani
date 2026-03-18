@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **sarveshdevarmani36@gmail.com** 😊😊
 
 
 # 💫 About Me:
-I'm Sarvesh Devarmani.<br>I'm currently in final year of diploma in Computer Science and Engineering at DKTE Yashwantrao Chavan Polytechnic, Ichalkaranji.<br>Looking forward to aspire AI/ML Engineer.<br>I scored **96.94%** in 5th semester.<br>I'm curious to know about how AI Model works.<br>Also I'm looking forward to build some projects on it.<br>Enthusiast in Vibe-Coding.
+<ul>I'm Sarvesh Devarmani.</ul>ul><br>I'm currently in final year of diploma in Computer Science and Engineering at DKTE Yashwantrao Chavan Polytechnic, Ichalkaranji.<br>Looking forward to aspire AI/ML Engineer.<br>I scored **96.94%** in 5th semester.<br>I'm curious to know about how AI Model works.<br>Also I'm looking forward to build some projects on it.<br>Enthusiast in Vibe-Coding.
 
 
 ## 🌐 Socials:
