@@ -20,18 +20,18 @@
 ## 🚀 About Me
 
 ```yaml
-name: Sarvesh Devarmani
-location: Ichalkaranji, Maharashtra, India 🇮🇳
-education: Final Year Diploma — Computer Science & Engineering
-college: DKTE Yashwantrao Chavan Polytechnic
-achievement: 96.94% in 5th Semester 🏆
-goal: Aspiring AI/ML Engineer
-interests:
+Name: Sarvesh Devarmani
+Location: Ichalkaranji, Maharashtra, India 🇮🇳
+Education: Final Year Diploma — Computer Science & Engineering
+College: DKTE Yashwantrao Chavan Polytechnic
+Achievement: 96.94% in 5th Semester 🏆
+Goal: Aspiring AI/ML Engineer
+Interests:
   - Machine Learning & Deep Learning
   - Vibe Coding & Building Projects
   - How AI models actually work under the hood
-pronouns: He/Him
-fun_fact: "I Love Tech and Tech Love Me! ⚡"
+Pronouns: He/Him
+Fun_Fact: "I Love Tech and Tech Love Me! ⚡"
 ```
 
 ---
