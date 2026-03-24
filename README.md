@@ -32,6 +32,7 @@ Interests:
   - How AI models actually work under the hood
 Pronouns: He/Him
 Fun_Fact: "I Love Tech and Tech Love Me! ⚡"
+Practice: IndiaBix.com — Aptitude & Technical Quiz
 ```
 
 ---
